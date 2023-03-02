@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Newslaytical</string>
+    <string name="api_key">58a66555bbea4629a6f45433d5f29941</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
